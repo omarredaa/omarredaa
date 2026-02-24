@@ -7,7 +7,7 @@
     <a href="https://github.com/omarredaa">
   
 <a href="https://www.linkedin.com/in/omar-reda-73356327a/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-omarrhussien-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarrhussien" alt="LinkedIn: omarreda" style="max-width: 100%; height: auto;"></a>
+  <img src="https://img.shields.io/badge/-omarreda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarrhussien" alt="LinkedIn: omarreda" style="max-width: 100%; height: auto;"></a>
 
 
 </div>
