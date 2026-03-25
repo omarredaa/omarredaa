@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Reda</h1>
-<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Front End Developer | Crafting intuitive, pixel-perfect web interfaces</h3>
+<div class="markdown-heading" dir="auto"><h3 align="center" class="heading-element" dir="auto">Front End Developer | Next.js DEveloper | Crafting intuitive, pixel-perfect web interfaces</h3>
 
   
 <path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
@@ -33,9 +33,9 @@
           
     
 <ul dir="auto">
-  <li>🏫 I am a <code>Computer Science student</code> at Assuit University</li>
-  <li>🌱 I’m currently studying <code>Next.js</code>.</li>
-  <li>📫 How to reach me: <strong><a href="mailto:omarzeka85@gmail.com"><code>omarzeka85@gmail.com</code></a></strong></li>
+  <li>🏫 I am a <code>Computer Science Graduated</code> from Assuit University</li>
+  <li>🌱 I’m currently studying <code>node.js</code>.</li>
+  <li>📫 How to reach me: <strong><a href="mailto:omarredaa616@gmail.com"><code>omarredaa616@gmail.com</code></a></strong></li>
   <li>🤔 I’m currently open for a new <code>job opportunity</code>. </code></a></li>
   <!-- You can check my <a href="https://omarsakr.vercel.app" target="_blank" rel="noopener noreferrer"><code><strong>Resume</strong> -->
   <li>🤓 Always <code>learning new technologies</code> to stay updated.</li>
@@ -54,7 +54,7 @@
         style="max-width: 100%;"></a>
   
 <!-- Gmail -->
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=omarzeka85@gmail.com" title="Gmail" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=omarredaa616@gmail.com" title="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"
         alt="Gmail"
         data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"
